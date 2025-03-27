@@ -1,6 +1,9 @@
-header{
+
+.primera img{
+    margin:0 auto;
+}
+.v1{
     background-image: url("poster1.png");
 }
-#primera img{
-    
-}
+.v2{
+    background-image: url("poster");
